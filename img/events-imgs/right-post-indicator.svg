@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.658" height="107.317" viewBox="0 0 72.658 107.317">
+  <defs>
+    <filter id="right-post-indicator" x="0" y="0" width="72.658" height="107.317" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#right-post-indicator)">
+    <path id="right-post-indicator-2" data-name="right-post-indicator" d="M1375.333,4876l33,33-33,33" transform="translate(-1354.68 -4858.34)" fill="none" stroke="#fffefe" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>

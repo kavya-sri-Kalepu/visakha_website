@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.755" height="83.79" viewBox="0 0 84.755 83.79">
+  <g id="Computer_Science_Engineering" transform="translate(1.474 1.473)">
+    <path id="Path_26" d="M49.164,6.648H5.812a4.456,4.456,0,0,0-4.225,4.667h0V69.438a4.271,4.271,0,0,0,4.056,4.491h73.52a4.275,4.275,0,0,0,4.225-4.4V11.315a4.271,4.271,0,0,0-4.056-4.491h-.085ZM6.911,62.128H82.628" transform="translate(-1.584 -6.648)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.947"/>
+    <path id="Path_32" d="M59.289,90.293a13.566,13.566,0,0,1-1.859-1.585H37.148a13.005,13.005,0,0,1-1.521,1.585,2.617,2.617,0,0,0-1.1,2.29v1.145c0,.969.169,1.585,1.1,1.673H59.374c.93,0,1.268-.616,1.268-1.673V92.583a3.943,3.943,0,0,0-1.352-2.29ZM54.81,81.927H39.853l-2.789,6.781H57.345ZM44.416,77h6" transform="translate(-6.47 -14.558)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.947"/>
+    <g id="Group_90" data-name="Group 90" transform="translate(9.636 13.386)">
+      <path id="Path_109" data-name="Path 109" d="M33.011,27.484,12.9,38.316,33.011,49.324" transform="translate(-12.899 -22.376)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="2.977"/>
+      <line id="Line_5" data-name="Line 5" x1="12.929" y2="33.024" transform="translate(25.014)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.977"/>
+      <path id="Path_110" data-name="Path 110" d="M62.906,27.484,82.849,38.316,62.906,49.324" transform="translate(-20.315 -22.376)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="2.977"/>
+    </g>
+  </g>
+</svg>
